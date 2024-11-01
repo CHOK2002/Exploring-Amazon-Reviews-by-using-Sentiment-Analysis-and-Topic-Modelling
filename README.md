@@ -11,11 +11,17 @@ Amazon Product Reviews: https://nijianmo.github.io/amazon/index.html
 
 ## Result & Discussion
 ### Health and Personal Care
+![image](https://github.com/user-attachments/assets/8e9cf2a2-785b-4923-a429-58650faa8285)
 
 ### Electronics
+![image](https://github.com/user-attachments/assets/876a76c5-e3ca-4fee-8116-f0e6707f15e5)
 
 ### Home and Kitchen
+![image](https://github.com/user-attachments/assets/051a8c5b-5576-432f-9177-069cacbd3be4)
 
 ### Toys and Games
+![image](https://github.com/user-attachments/assets/32216317-e339-4704-acd5-f3cc75f37418)
 
 ### Clothing Shoes and Jewel
+![image](https://github.com/user-attachments/assets/4537fd1f-3ed2-48c8-a929-52c2c6e966da)
+
