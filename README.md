@@ -43,7 +43,8 @@ Each category is examined across three sentiment levels which are the positive, 
   - Incorporate a rule to detect negations like ("not good" or "wasn't happy"), as lexicons often miss negated contexts.
   - Pre-process reviews to identify words often used in both positive and negative contexts, which may lead to misleading sentiment scores.
 - **Other Algorithms**
-  - Apply other algorithms as NRC Lexicon lack context awareness. For example, if a reviewer says, "I was hoping this toy would be better," the word "hoping" could trigger "anticipation" because the lexicon might detect it as a positive expectation without understanding the disappointment expressed in the rest of the review. Moreover, in the Toys and Games category, the reviews with negative sentiment were incorrectly associated with the emotion of Joy. To address this, alternative algorithms should be applied to improve accuracy.
+  - Apply other algorithms as NRC Lexicon lack context awareness. For example, if a reviewer says, "I was hoping this toy would be better," the word "hoping" could trigger "anticipation" because the lexicon might detect it as a positive expectation without understanding the disappointment expressed in the rest of the review.
+  - In the Toys and Games category, the reviews with negative sentiment were incorrectly associated with the emotion of Joy. To address this, alternative algorithms should be applied to improve accuracy.
 
 
 
