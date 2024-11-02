@@ -38,6 +38,14 @@ Each category is examined across three sentiment levels which are the positive, 
 
 **Clothing, Shoes, and Jewelry** category, positive feedback is marked by **Joy**, with customers praising items like wallets, clothing appearance, family gifts, comfortable shoes, and bags. Neutral feedback also reflects **Joy** as well, but here, topics focus more on practical aspects like sizing, material quality, event reminders, jewelry, and footwear comfort. When sentiment turns negative, the emotion **Sadness** become dominant. The discussions highlight challenges with watches, bags, footwear, time management, and the visual appeal of jewelry, reflecting areas where products might not meet customer expectations.
 
+## Future Improvement
+- **Data Preprocessing**
+  - Negation Handling: Incorporate a rule to detect negations like ("not good" or "wasn't happy"), as lexicons often miss negated contexts.
+  - Pre-filtering: Pre-process the reviews to flag words commonly used in both positive and negative contexts but may evoke misleading scores.
+- **Other Models**
+  - Apply other algorithms as NRC Lexicon lack context awareness.  If a reviewer says, "I was hoping this toy would be better," the word "hoping" could trigger "anticipation" because the lexicon might detect it 
+    as a positive expectation without understanding the disappointment expressed in the rest of the review.
+
 
 
 
