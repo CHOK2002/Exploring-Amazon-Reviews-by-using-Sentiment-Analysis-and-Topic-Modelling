@@ -11,7 +11,7 @@ Amazon Product Reviews: https://nijianmo.github.io/amazon/index.html
 
 ## Result & Discussion
 
-Each category is examined across three sentiment levels which are the positive, neutral, and negative and with its own dominant emotions and related topics. Across all five categories analyzed, the sentiment emotions **Anticipation** and **Trust** consistently rank among the top three most frequent emotions in each category. Due to their frequent prominence, the remaining emotions will be selected based on their dominance.
+Each category is examined across three sentiment levels which are the positive, neutral, and negative and with its own dominant emotions and related topics. Across all five categories analyzed, the sentiment emotions **Anticipation** and **Trust** consistently rank among the top three most frequent emotions in each category. Due to their frequent prominence, the **remaining emotions will be selected** based on their dominance.
 
 ### Health and Personal Care
 ![image](https://github.com/user-attachments/assets/8e9cf2a2-785b-4923-a429-58650faa8285)
